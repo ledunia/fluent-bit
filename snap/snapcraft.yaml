@@ -25,7 +25,7 @@ apps:
 
 parts:
   fluent-bit:
-    source: https://github.com/fluent/fluent-bit
+    source: https://github.com/ledunia/fluent-bit
     source-type: git
     plugin: cmake
     stage-packages:
